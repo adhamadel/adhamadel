@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adham Sakr</h1>
-<h3 align="center">I am a dedicated Data Analyst and BI Specialist with a background in Mechatronics Engineering, leveraging my technical expertise to drive data-informed decision-making. With one year of hands-on experience, I excel in collaborating with business stakeholders to understand their needs and deliver actionable insights. Proficient in SQL, Power BI, SSRS, Looker and other data visualization tools, I specialize in designing interactive dashboards and comprehensive reports that facilitate strategic business decisions. My unique blend of engineering knowledge and analytical skills enables me to translate complex data into clear, impactful visualizations and reports.</h3>
+<h3 align="center">I am a Data Analyst and BI Specialist with a Mechatronics Engineering background, specializing in data-driven decision-making. With one year of experience, I collaborate with business stakeholders to deliver actionable insights using SQL, Power BI, Looker studio, and SSRS. My expertise in creating interactive dashboards and comprehensive reports enables strategic decision-making through clear, impactful visualizations.</h3>
 
 - 📫 How to reach me **adhamsakr@hotmail.com**
 
